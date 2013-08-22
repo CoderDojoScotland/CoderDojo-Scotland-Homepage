@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Papertank Limited - papertank.co.uk - @papertank
+
+    	David Rushton -- Web Developer -- @davidrushton
+    	Chris Baldie -- Graphic Designer -- @chrisbaldie
+
+# THANKS
+
+    Craig Steele -- @craig88
+
+# TECHNOLOGY COLOPHON
+
+    Wordpress
+    HTML5, CSS3
+    jQuery, Modernizr
